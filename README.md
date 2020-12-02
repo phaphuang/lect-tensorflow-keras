@@ -1,1 +1,1 @@
-This repository is for Research Methodology "Tensorflow session".
+This repository is for ICDI Research Methodology "Tensorflow" session.
